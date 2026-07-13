@@ -1,4 +1,4 @@
 {
-  "version": "0.1.4",
-  "notes": "Update nudge + pinned footer"
+  "version": "0.1.5",
+  "notes": "Passkeys (browser virtual authenticator)"
 }
