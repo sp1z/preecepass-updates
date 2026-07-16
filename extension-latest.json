@@ -1,4 +1,4 @@
 {
-  "version": "0.1.11",
-  "notes": "Passkey proxy stays attached (keep-alive + page ping)"
+  "version": "0.1.12",
+  "notes": "Passkey origin resolution fix"
 }
