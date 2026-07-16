@@ -1,4 +1,4 @@
 {
-  "version": "0.1.6",
-  "notes": "Transparent icon, wider popup, hover codes"
+  "version": "0.1.7",
+  "notes": "Passkeys work in Edge with the desktop app running (agent mode)"
 }
