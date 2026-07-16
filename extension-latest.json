@@ -1,4 +1,4 @@
 {
-  "version": "0.1.9",
-  "notes": "Passkey proxy diagnostics"
+  "version": "0.1.10",
+  "notes": "Passkeys now work in Edge — keep-alive fix"
 }
